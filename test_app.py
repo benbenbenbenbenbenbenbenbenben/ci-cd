@@ -1,5 +1,5 @@
 """
-Unit tests using pytest
+Unit tests using pytest showcase
 """
 import app
 
